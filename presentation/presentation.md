@@ -149,6 +149,16 @@ Solution here
 
 ---
 
+#### Assignement 7
+
+A HATEOAS service has nothing to do with hating someone, it is a poorly named acronym
+that stands for "Hypermedia as the Engine of Application State". There are a few java
+frameworks for creating HATEOAS services and the most widely used is Spring-HATEOAS
+
+http://projects.spring.io/spring-hateoas/
+
+---
+
 Congratulations, we are done!
 ----------------------------
 

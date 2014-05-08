@@ -19,29 +19,22 @@ Rest workshop for Kantega
 ## Assignments ##
 
 1. My first REST service
-
-The first task is to create a simple rest service
+  * The first task is to create a simple rest service
 
 2. HTTP Error codes
-
-The second task is to return different HTTP status codes for different results.
-
-In a happy day scenario you would return HTTP 200 - OK, but if it is a search
-and no results were found you can return HTTP 404 - Not found. A server error
-would return a HTTP 500. etc.
+  * The second task is to return different HTTP status codes for different results.
 
 3. Testing a rest api
-
-4. JSON vs XML
-
+  * Best practices for writing tests
+4. JSON vs XML vs ???
+  * Using contenttype to determine what media to return
 5. consuming REST
-
-6. Versjonering
-
+  * A small Angular application for our interface
+6. Versioning
+  * Supporting a new client without breaking compatability with the old one.
 7. HATEOAS service
-
-A HATEOAS service has nothing to do with hating someone, it is a poorly named acronym
-that stands for "Hypermedia as the Engine of Application State". There are a few java
-frameworks for creating HATEOAS services and the most widely used is Spring-HATEOAS
-
-http://projects.spring.io/spring-hateoas/
+  * hypermedia as the engine of application state
+8. OAuth
+  * Securing your api
+9. API Design
+  * Designing and documenting your api
