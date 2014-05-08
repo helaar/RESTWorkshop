@@ -20,10 +20,8 @@ Rest workshop for Kantega
 
 1. My first REST service
   * The first task is to create a simple rest service
-
 2. HTTP Error codes
   * The second task is to return different HTTP status codes for different results.
-
 3. Testing a rest api
   * Best practices for writing tests
 4. JSON vs XML vs ???
